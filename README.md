@@ -82,4 +82,4 @@ This project focuses on developing a simple file compression and decompression t
 The project successfully demonstrates a functional and efficient file compression and decompression utility using C++. The use of RLE keeps the logic simple and verifiable, while file handling and string manipulation highlight foundational programming skills.
 
 OUTPUT
-
+![Image](https://github.com/user-attachments/assets/fb77823e-a6bc-4f3c-ad6e-f9525226d385)

@@ -16,8 +16,6 @@
 *Project Report: Simple File Compression and Decompression Tool in C++*
 
 *Internship Title*: Multithreaded File Compression Tool Development
-*Submitted by*: Swati Thakur
-*Organization*: CodTech
 
 
 ---
